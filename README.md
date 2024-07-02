@@ -1,4 +1,6 @@
 # html_updata
+## 用途說明
+製作出一個html介面，使用 php 跟 sql 接受外部傳進來的影像
 ## 初始畫面
 ![image](https://github.com/nigunosong88/html_updata/blob/main/images/%E5%88%9D%E5%A7%8B%E7%95%AB%E9%9D%A2.jpg)
 ## 使用者填寫資料
